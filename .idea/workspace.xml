@@ -23,7 +23,9 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15eeefb1-6c0a-48d2-af8e-f851d6527c91" name="Default Changelist" comment="" />
+    <list default="true" id="15eeefb1-6c0a-48d2-af8e-f851d6527c91" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/CleanSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CleanSolution.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +64,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1PNGThgn7xeeM4JuVWvP4KoiyD7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
@@ -146,11 +153,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565707149383</updated>
-      <workItem from="1565707151225" duration="2429000" />
+      <workItem from="1565707151225" duration="2727000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

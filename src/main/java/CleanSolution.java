@@ -58,11 +58,4 @@ public class CleanSolution {
 				.map(tuple -> String.format("%s, %s -> %s", tuple.get(0), tuple.get(1), tuple.get(0)+tuple.get(1)))
 				.forEach(System.out::println);
 	}
-	// read file
-
-	// select 6 letter long words
-
-	// iterate over dict with those words
-
-
 }
